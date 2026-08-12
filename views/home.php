@@ -441,52 +441,6 @@
 </section>
 
 
-<section style="
-    padding:70px 7%;
-    background:#111827;
-    color:#fff;
-">
-
-    <div style="
-        display:flex;
-        justify-content:space-between;
-        align-items:center;
-    ">
-
-        <div style="max-width:650px;">
-
-            <span style="color:#f4b400; font-weight:800;">
-                DRIVER PARTNER
-            </span>
-
-            <h2 style="font-size:38px; margin:12px 0;">
-                Drive With SmartCab
-            </h2>
-
-            <p style="
-                color:#9ca3af;
-                line-height:1.7;
-            ">
-                Turn your driving skills into a reliable income.
-                Join our driver community and start earning with flexible hours.
-            </p>
-
-        </div>
-
-        <a href="#" style="
-            background:#f4b400;
-            color:#111827;
-            padding:15px 25px;
-            border-radius:10px;
-            text-decoration:none;
-            font-weight:800;
-        ">
-            Become a Driver →
-        </a>
-
-    </div>
-
-</section>
 
 <section style="padding:75px 7%; background:#f7f8fa;">
 
