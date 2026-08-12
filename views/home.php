@@ -488,7 +488,76 @@
 
 </section>
 
+<section style="padding:75px 7%; background:#f7f8fa;">
 
+    <div style="text-align:center; margin-bottom:40px;">
+
+        <span style="color:#f4b400; font-weight:800; font-size:13px;">
+            FAQ
+        </span>
+
+        <h2 style="font-size:34px; margin:10px 0;">
+            Frequently Asked Questions
+        </h2>
+
+    </div>
+
+
+    <div style="max-width:850px; margin:auto;">
+
+        <details style="
+            background:#fff;
+            padding:20px;
+            border-radius:12px;
+            margin-bottom:12px;
+        ">
+            <summary style="font-weight:700; cursor:pointer;">
+                How can I book a cab?
+            </summary>
+
+            <p style="color:#6b7280; margin-bottom:0;">
+                Enter your pickup and destination, select your cab
+                and confirm your booking.
+            </p>
+        </details>
+
+
+        <details style="
+            background:#fff;
+            padding:20px;
+            border-radius:12px;
+            margin-bottom:12px;
+        ">
+            <summary style="font-weight:700; cursor:pointer;">
+                Can I cancel my booking?
+            </summary>
+
+            <p style="color:#6b7280; margin-bottom:0;">
+                Yes, you can cancel your booking according to our
+                cancellation policy.
+            </p>
+        </details>
+
+
+        <details style="
+            background:#fff;
+            padding:20px;
+            border-radius:12px;
+            margin-bottom:12px;
+        ">
+            <summary style="font-weight:700; cursor:pointer;">
+                How is the fare calculated?
+            </summary>
+
+            <p style="color:#6b7280; margin-bottom:0;">
+                Fare is calculated based on distance, cab type and
+                applicable charges.
+            </p>
+        </details>
+
+    </div>
+
+</section>
 
 
 
